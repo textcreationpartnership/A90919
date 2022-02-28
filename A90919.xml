@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Colonell Generall Poynts, to the Honourable William Lenthall Speaker of the House of Commons: concerning Sir Tho. Glenham, Colonell Gerard, [brace] and [brace] Sir Marmaduke Langdale, in the last fight neere Chester. With a perfect narration of Colonell Parsons of the said proceedings: and the number of horse and men taken in the pursuit, and which way His Majesty is fled. Die Lune, 29 Septemb. 1645. Ordered by the Lords assembled in Parliament that Col. Gen. Poynts his letter, with Colonell Parsons relation be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+            <author>Poyntz, Sydenham.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90919</idno>
+            <idno type="STC">Wing P3135</idno>
+            <idno type="STC">Thomason E303_24</idno>
+            <idno type="STC">ESTC R200301</idno>
+            <idno type="EEBO-CITATION">99861108</idno>
+            <idno type="PROQUEST">99861108</idno>
+            <idno type="VID">158759</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90919)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158759)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E303[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Colonell Generall Poynts, to the Honourable William Lenthall Speaker of the House of Commons: concerning Sir Tho. Glenham, Colonell Gerard, [brace] and [brace] Sir Marmaduke Langdale, in the last fight neere Chester. With a perfect narration of Colonell Parsons of the said proceedings: and the number of horse and men taken in the pursuit, and which way His Majesty is fled. Die Lune, 29 Septemb. 1645. Ordered by the Lords assembled in Parliament that Col. Gen. Poynts his letter, with Colonell Parsons relation be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+                  <author>Poyntz, Sydenham.</author>
+                  <author>Parsons, Colonell.</author>
+                  <author>Lenthall, William, 1591-1662.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings-head in the Old-baily.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Sept. 30. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chester (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158759:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <p>A LETTER FROM Colonell Generall Poynts, TO THE HONOURABLE William Lenthall Speaker of the Houſe of Commons: Concerning
+<list>
+                  <item>Sir <hi>Tho. Glenham,</hi>
+                  </item>
+                  <item>Colonell <hi>Gerard,</hi>
+                  </item>
+                  <item> And Sir <hi>Marmaduke Langdale,</hi>
+                  </item>
+               </list>
+In the laſt fight neere Cheſter.</p>
+            <p>With a perfect narration of Colonell <hi>Parſons</hi> of the ſaid proceedings. And the number of horſe and men taken in the purſuit, and which way His Majeſty is fled.</p>
+            <p>Die Lune, 29 Septemb. 1645.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>ORdered by the Lords aſſembled in Parliament that Col. Gen.</hi> Poynts <hi>his Letter, with Colonell</hi> Parſons <hi>Relation be forthwith printed and publiſhed.</hi>
+                        </p>
+                        <p>J. Brown Cler. Parliamentorum.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Wright</hi> at the Kings-head in the Old-baily. <hi>Sept.</hi> 30. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:158759:2"/>
+            <!-- PDF PAGE 6 -->
+            <pb n="1" facs="tcp:158759:2"/>
+            <!-- PDF PAGE 6 -->
+            <head>For the Right Honourable WILLIAM LENTHALL Eſquire, Speaker of the Houſe of COMMONS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N the concluſion of a hard march it hath pleaſed God to deliver the enemy into our hands, wherein he hath ſufficiently manifeſted his pro<g ref="char:EOLhyphen"/>vidence. Yeſterday we diſcovered the enemy on Millers heath within three miles of Cheſter, whereupon I ſent to Cheſter for ſome foot, which was very ſeaſonably ſent me, and in my advance towards them we unawares met a body of them in a narrow paſſe on the top of the heath, where we had a very violent encounter, wherein we cut off many of the King, Life guard and re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted the reſt, then we retreated to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne maine body, and toward foure of the clocke in the afternoon we advanced toward them, and finding the enemy ready for battell we preſently f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll upon them, kild, tooke, wounded, and routed the whole army, and I am confident they never received a greater blow. I have onely a Catalogue of few, the reſt being ſent to Tarvin and other garriſons in theſe parts,
+<pb n="2" facs="tcp:158759:3"/>
+               <!-- PDF PAGE 7 -->cannot as yet be collected. Theſe Colonels, Sir <hi>Thomas Glen<g ref="char:EOLhyphen"/>ham.</hi> Sir <hi>Thomas Dacres,</hi> Sir <hi>Philip Muſgrave,</hi> Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Dawbridge court,</hi> Sir <hi>Tho Gower,</hi> Col. <hi>Tho. Weſton<g ref="char:punc">▪</g>
+               </hi> ſonne to the Earle of Portland and Col. <hi>Cromwell, Iames Martin</hi> Quartermaſter generall, Col. <hi>John G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fford,</hi> Lieutenant Col. <hi>Edward Hatton,</hi> and Lieut Col <hi>Conſtable,</hi> Cap. <hi>Wyvell,</hi> Cap. <hi>Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>terill,</hi> Cap. <hi>Morgan,</hi> Cap. <hi>Mountaine,</hi> Cap. <hi>Le Strange,</hi> Cap. <hi>Swinho,</hi> and Cap. <hi>Conſtable.</hi> Its reported Sir <hi>Marma<g ref="char:EOLhyphen"/>duke Langdale</hi> is either killed or taken: you ſhall with all con<g ref="char:EOLhyphen"/>veniency receive a compleat Liſt from me. There was killed the Earle of Litchfield, brother to the Duke of Lenox, and Sir <hi>Brian Stapleton</hi> a notorious Papiſt, who was lately in Ireland His Majeſties ſollicitor for ten thouſand men. In this tender of my ſervice I deſire it may be forthwith communicated to the Houſe, from whom I deſire to receive further orders, in the meane time I ſhall continue thereabouts, uſing my endeavours in reducing this City, wherein, and in all other my endeavours, I ſhall ever reſt,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your moſt humble and faithfull ſervant, SEDNHAM POYNTZ.</signed>
+               <dateline>
+                  <hi>Milers-heath,</hi> 
+                  <date>
+                     <hi>Septemb. 25. 1645.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Gerrard</hi> is deadly wounded if not already ſlaine.</p>
+               <p>This Gentleman Colonell <hi>Parſons</hi> having the charge of brin<g ref="char:EOLhyphen"/>ging up the reſerves, has done very good ſervice in the diſcharge thereof. I deſire the houſe may thinke of ſome further incourage<g ref="char:EOLhyphen"/>ment for the Yorkeſhire horſe.</p>
+               <p>Col. <hi>Beathell</hi> and Col. <hi>Graves</hi> deſerves very much for their ſervice.</p>
+            </postscript>
+         </div>
+         <div type="relation">
+            <pb n="3" facs="tcp:158759:3"/>
+            <!-- PDF PAGE 7 -->
+            <head>The Relation of Colonell <hi>Parſons</hi> communicated to both Houſes of Par<g ref="char:EOLhyphen"/>liament, <hi>Sept.</hi> 29. 1645.</head>
+            <p>ABout the 18 of <hi>August</hi> laſt, the King with about 4000 horſe and Drag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oues advanced into Yorkeſhire. The 19. Col. <hi>Roſſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers</hi> horſe came up to Generall <hi>Poyntz.</hi> The 21, they joyned with the Scots and Cheſhire horſe, a dayes reſt the Scots horſe would have, the next day all marched; But the King got by that meanes a dayes retreat before, whom Gen <hi>Poyntz</hi> according to his Order from the Com<g ref="char:EOLhyphen"/>mittee of both Ki<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gdomes, through many difficulties per<g ref="char:EOLhyphen"/>ſued above 300 miles, not reſting above a day in any place. The knowledge of the Kings advance for the reliefe of Cheſter, being the onely certain intelligence he received of his motion, he marched day and night to be there be<g ref="char:EOLhyphen"/>fore him, and tooke in a ſtrong houſe with a Draw-bridge, moted, (which ſtood in the way of his march, and oppo<g ref="char:EOLhyphen"/>ſed him) in leſſe then an houres ſpace; And after a very hard march all night, on the 24 of this inſtant in the mor<g ref="char:EOLhyphen"/>ning, his Van curriers diſcovered the enemy on a moore within two miles of Cheſter called Rowten-moore, where<g ref="char:EOLhyphen"/>upon immediatly hee drew into Order, and advanced upon them (though all his force were not then come up) for he ſuppoſed to take the enemy at unawares, it being probable they could have no intelligence of his being ſo neare, though it proved otherwiſe, for his Letters (written that night to the Commander within the out-Lines of Cheſter, giving notice of his advance) were intercepted and the enemy
+<pb n="4" facs="tcp:158759:4"/>
+               <!-- PDF PAGE 8 -->being poſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſed of the advantage of ground, and in order confronted out van led by Colonell <hi>Hugh Bethell</hi> in the mid<g ref="char:EOLhyphen"/>deſt of a Lane betwixt two Moores covered with the ar<g ref="char:EOLhyphen"/>med men of both Battaliaes, where was given a very ſharp and gallart charge by both parties, for after Piſtolls were diſcharged at halfe Pikes diſtance, they diſputed the mat<g ref="char:EOLhyphen"/>ter with their Swords a full quarter of an houre, neither yeilding ground to other, till at length the enemy were for<g ref="char:EOLhyphen"/>ced to retreate, whom, our men purſuing were re-encoun<g ref="char:EOLhyphen"/>tred by a freſh reſerve at the Lanes mouth, and they were likewiſe diſcomfited, and a third, but being over powred were in the end forced to retreate through the Lane, un<g ref="char:EOLhyphen"/>capable of receiving a Reſerve to ſecond them: here wee had ſome loſſe, the enemy purſuing to the Lanes end, but w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re beaten back, for there were ſpace for our reſerves to advance, Colonell <hi>Bethell</hi> and Colonell <hi>Graves</hi> were then ſore wounded, after this the Generall perceiving the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne<g ref="char:EOLhyphen"/>my lay upon his advantage, only skermiſhed him with ſome flying parties, while hee h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld correſpondency with his friends in Cheſter Suburbs, whoſe ſigne was the diſcharge of two peeces of Ordnance when they would iſſue out with horſe and ſoot to joyne with him, upon whoſe appearing the enemy quitted their ſtation, and the Generall with a party advanced to take the moſt convenient ground give<g ref="char:EOLhyphen"/>ing command to Col. <hi>Parſons</hi> Quartermaſter generall of the Army, Col. <hi>Sandies</hi> who performed the duty of Commiſ<g ref="char:EOLhyphen"/>ſary Generall of the horſe, during the aforeſaid march be<g ref="char:EOLhyphen"/>ing then imployed to the Committee of both Kingdomes to order up the reſt, which was opportunely done, for they joyned with the Auxiliary force of horſe and foote in the e<g ref="char:EOLhyphen"/>nemies ground, and was drawn into many ſmall diviſions and reſerves, being much over numbred by the enemy, who accompted themſelves 5000 horſe, and Gen. <hi>Poyntz</hi>
+               <pb n="5" facs="tcp:158759:4"/>
+               <!-- PDF PAGE 8 -->not above 2500 horſe, beſides two ſmall bodies of foote, who were diſpoſed in the two outmoſt intervals of horſe; up<g ref="char:EOLhyphen"/>on the very inſtant of this juncture the enemy advanced with their whole body, and the Generall (leaving the charge of the reſerves to Col. <hi>Parſons</hi>) tooke care of, and led up the van diviſions, with which after a round volly of ſhot from the foot, he joyned battell, charging the enemy in Front and Flanck, where his horſe was deeply wounded on the head, being continually ſeconded with reſerves as ofte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as there was occaſion, the reſt being kept intire followe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at a due diſtance; The prevailing Generall who put the Enemy to a totall r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut, and al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough the purſuit was as hot as could be expected from ſuch wearied horſe, through narrow durty lane and over ditches, the enemy ralied in a great moore wide of Cheſter in two vaſt bodies a great diſtance aſſun<g ref="char:EOLhyphen"/>der, the firſt (not without ſome diſpute) were againe rout<g ref="char:EOLhyphen"/>ed. and the other likewiſe, who retreated upon the War<g ref="char:EOLhyphen"/>wick Regiment with ſuch violence as bore them away con<g ref="char:EOLhyphen"/>fuſedly, intermixed with the flying enemy up to the out<g ref="char:EOLhyphen"/>workes of the Suburbs, the Musketteers within were never the leſſe liberall of their Gunſhot, but the Divine provi<g ref="char:EOLhyphen"/>dence appeared much in the diſtribution of the impartiall Bullets, few or none lighting upon our men, though many of the Enemy were found there expiring.</p>
+            <p>A Body of horſe all the while of theſe laſt diſputes ap<g ref="char:EOLhyphen"/>peared fixed on the top of a Hill, a little diſtant on that ſide Cheſter, wherein the King was very confidently repu<g ref="char:EOLhyphen"/>ted to be, for confronting whereof a party of foot winged with Colonell <hi>Lidcot,</hi> and Colonell <hi>Bethells</hi> Regiments were drawn into a convenient Cloſe in the bottome as a grand reſerve; but the night by this time falling the bo<g ref="char:EOLhyphen"/>dy on the Hill appeared not, and thoſe in the bottome re<g ref="char:EOLhyphen"/>turned to their comrades ſaciated with ſlaughter, priſoners,
+<pb n="6" facs="tcp:158759:5"/>
+               <!-- PDF PAGE 9 -->and booty of the vanquiſhed Enemy; while theſe things were thus agitated in the field the remainder of foote left with Colonell <hi>Lowthian</hi> in the Suburbs were not idle, for the Enemy made a ſtrong fally upon them out of the City, and were more ſtremouſly repulſed, the number of the ſlaine of the priſoners and horſe taken is not yet knowne, but is generally conjectured 800 ſlaine, 1500 men and 2000 horſes taken, there was brought in that night the und<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:EOLhyphen"/>written liſt, of the conſiderableſt men taken and ſlame in the fight, the King with a party of about five or 600 was ſeene going into Wales.</p>
+            <list>
+               <head>Priſoners taken.</head>
+               <item>SIr <hi>Thomas Glenham.</hi>
+               </item>
+               <item>Sir <hi>Thomas D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cres.</hi>
+               </item>
+               <item>Sir <hi>Philip Muſgrave.</hi>
+               </item>
+               <item>Sir <hi>Thomas Dabridgecourt.</hi>
+               </item>
+               <item>Sir <hi>Thomas Gore.</hi>
+               </item>
+               <item>Col. <hi>Thomas Weſton,</hi> ſonne to the Earle of Port<g ref="char:EOLhyphen"/>land.</item>
+               <item>Col. <hi>Cromwell.</hi>
+               </item>
+               <item>
+                  <hi>Iames Martin,</hi> Quarterma<g ref="char:EOLhyphen"/>ſter generall.</item>
+               <item>Col. <hi>Iohn Gifford.</hi>
+               </item>
+               <item>Lieut. Col. <hi>Edw. Hatton.</hi>
+               </item>
+               <item>Lieut. Col. <hi>Conſtable.</hi>
+               </item>
+               <item>Lieut. Col. <hi>Wigmore.</hi>
+               </item>
+               <item>Captaine
+<list>
+                     <item>
+                        <hi>Wivell.</hi>
+                     </item>
+                     <item>
+                        <hi>Cotterill.</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan.</hi>
+                     </item>
+                     <item>
+                        <hi>Mountaine.</hi>
+                     </item>
+                     <item>
+                        <hi>Le Strange.</hi>
+                     </item>
+                     <item>
+                        <hi>Swinoe.</hi>
+                     </item>
+                     <item>
+                        <hi>Conſtable.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>It is reported Sir <hi>Marma<g ref="char:EOLhyphen"/>duke Langdale</hi> is ſlaine.</item>
+               <item>The Earle of Litchfield, brother to the Duke of Lenox, ſlaine.</item>
+               <item>Sir <hi>Bryan Stapleton</hi> (the Kings agent for 10000 men in Ireland, ſlaine.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
